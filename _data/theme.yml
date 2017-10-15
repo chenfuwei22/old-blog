@@ -1,0 +1,48 @@
+# Theme Skin
+skin: default # default, night, plum, sea, soft, steel
+
+# Theme Text
+t:
+  skip_links: "Saltar enlaces"
+  skip_primary_nav: "Saltar a navegación primaria"
+  skip_content: "Saltar a contenido"
+  skip_footer: "Saltar al pie de página"
+  menu: "Menú"
+  home: "首页"
+  newer: "Más recientes"
+  older: "Anteriores"
+  email: "Email"
+  subscribe: "RSS feed"
+  read_more: "更多"
+  posts: "文章"
+  page: "Página"
+  of: "de"
+  min_read: "分钟左右的阅读"
+  present: "Presente"
+  # by: "Por"
+  # January: "Enero"
+  # February: "Febrero"
+  # March: "Marzo"
+  # April: "Abril"
+  # May: "Mayo"
+  # June: "Junio"
+  # July: "Julio"
+  # August: "Agosto"
+  # September: "Septiembre"
+  # October: "Octubre"
+  # November: "Noviembre"
+  # December: "Diciembre"
+
+# Google Fonts
+google_fonts:
+  - name: "Fira Sans"
+    weights: "400,400i,600,600i"
+
+# Link to specific internal pages in the navigation.
+# Create a custom list to override the default setting of including links to all
+# pages that have a `title`. Add raw page paths in the order you'd like.
+
+navigation_pages:
+  - about.md
+  - posts.md
+  - spons.md
