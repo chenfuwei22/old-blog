@@ -1,5 +1,5 @@
 ---
-title: "最好的设计是尽量少的设计"
+title:"最好的设计是尽量少的设计"
 categories:
   - reproduced
 music-id:38358215
