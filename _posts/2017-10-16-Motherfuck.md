@@ -2,9 +2,9 @@
 title:  "最好的设计是尽量少的设计"
 categories:
   - reproduced
-image: "/assets/images/headers/0.jpg"
+image:
+music-id:38358215
 ---
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=38358215&auto=1&height=66"></iframe><br/>
 在谷歌加上看到一个奇葩帖子，通过一个原始到无法再简单的网页[Motherfucking Website](http://motherfuckingwebsite.com/)及满屏幕的fuck道出了网页设计的真谛。
 
 文章的中心思想就是最后那句引用“最好的设计是尽量少的设计”。
@@ -13,7 +13,7 @@ image: "/assets/images/headers/0.jpg"
 
 通过查看HTML代码发现作者果然留下了一些信息，可以去twitter上表达对他的膜拜之情了！
 
-![author] <img src="/assets/images/author.PNG">
+<img src="/assets/images/author.PNG">
 
 所以我现在做网站都是本着尽量少的设计去的，当然这篇文章我必须搬到我的博客来，永久留着，不时拿出来提醒自己。
 
