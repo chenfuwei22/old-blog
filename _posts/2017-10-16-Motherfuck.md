@@ -1,8 +1,8 @@
 ---
-title:"最好的设计是尽量少的设计"
+title: "最好的设计是尽量少的设计"
 categories:
   - reproduced
-music-id:38358215
+music-id: 38358215
 ---
 在谷歌加上看到一个奇葩帖子，通过一个原始到无法再简单的网页[Motherfucking Website](http://motherfuckingwebsite.com/)及满屏幕的fuck道出了网页设计的真谛。
 
