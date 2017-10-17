@@ -3,27 +3,42 @@ title: "关于"
 layout: about
 ---
 
-¡Hola!
+大家好，我是Kevin Chen。
 
-Bienvenid@ a
-<span style="color:#c3e344;">def</span> <span style="color:#3c78d8;">Podcast</span><span style="color:#b7b7b7;">(mx):</span>, el primer podcast exclusivamente sobre <span style="text-decoration:none;">[Python](https://www.python.org/)</span> en México.
+Hi, I'm Kevin Chen.
 
-Aquí conocerás a programadores de habla hispana que trabajan con Python y te enterarás de cómo es que utilizan Python de manera profesional.
+我的梦想是成为一名优秀的前端架构师。
 
-Seguro te preguntas:
-> ¿quién diablos corre esto y por qué está la foto de un tipo junto a un cartel que dice "PythonDay México" en este post?
+My dream is to become an excellent front-end architect.
 
-Pues bien, permíteme presentarme. Mi nombre es Rodolfo Ferro (el tipo de la foto) y soy un estudiante de matemáticas en la Universidad de Guanajuato. Actualmente me encuentro realizando una estancia de investigación en la universidad de Harvard, y justo aquí doy inicio con este proyecto que llevaba mucho tiempo dándome vueltas en la mente. Sobre mi experiencia, fui tallerista en el PythonDay México 2017, con el taller ["¡Crea un Twitterbot en 30 minutos!"](https://github.com/RodolfoFerro/Twitterbot_en_30); así como en el Festival Latinoamericano de Instalación de Software Libre 2017, con el taller ["Primeros pasos con Python: Manipulando imágenes"](https://github.com/RodolfoFerro/FLISoL17). Resulté ganador del primer lugar en el Hackatón CFOX 2017 organizado por Campus Party y Centro Fox, y Hackbajío Fintech 2016 organizado por el ITESM León. A la fecha soy voluntario en Clubes de Ciencia México, donde participo como coordinador local en la sede Guanajuato; y soy co-fundador de *Future·Lab*, espacio de estudiantes para desarrollar proyectos científico-tecnológicos de mejora social.
+这是我个人的博客，记录一些我自己的想法。
 
-Pero...
+This is my personal blog, and record some of my own ideas.
 
-Seguro te preguntas ahora sobre el contenido del programa. Pues bien, para ello me gustaría invitarte a que escuches el episodio número 0, el piloto. Aquí te contaré qué debes esperar y sabrás del contenido que habrá.
+我知道它很简陋，但也非常美，不是吗？^-^
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/333146456&amp;color=00aabb&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe><br/>
+I know it is very simple, but is also very beautiful, isn't it? ^-^
 
-Cualquier cosa, quedo a tus órdenes a través del siguiente correo:
-[defpodcastmx@gmail.com](defpodcastmx@gmail.com).
+希望你们也能喜欢。
 
-Espero el contenido te sea de interés. :)
+Hope you can like it.
 
-– Rodolfo Ferro.
+如果有什么问题欢迎给我发邮件，我的邮箱地址在页面的下方。
+
+If you have any questions welcome to email me, My email address at the bottom of the page.
+
+很期待与你的交流。
+
+look forward to communicate with you.
+
+祝你今天开心。 :)
+
+I wish you a happy today. :)
+
+通过这个邮箱你可以联系我:
+[chenfuwei22@gmail.com](chenfuwei22@gmail.com).
+
+
+– Kevin Chen.
+
+<object width="340" height="86" data="http://music.163.com/style/swf/widget.swf?sid=740558&type=2&auto=1&width=320&height=66" type="application/x-shockwave-flash"></object>
